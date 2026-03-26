@@ -1,0 +1,20 @@
+# OpenClaw版本。默认latest
+#OPENCLAW_VERSION="latest"
+
+# localhost和127.0.0.1以外的访问地址
+#OPENCLAW_GATEWAY_ALLOWED_IP="192.168.3.200 192.168.10.200"
+
+# HTTPS端口。默认443
+#OPENCLAW_GATEWAY_HTTPS_PORT=443
+
+# gate token。默认claw
+#OPENCLAW_GATEWAY_TOKEN=claw
+
+# Proxy
+#HTTP_PROXY=
+#HTTPS_PROXY=
+#NO_PROXY=localhost,127.0.0.1
+
+# 启用caddy反向代理。如果你没有自己的反向代理，可以启用这个
+#ENABLE_CADDY=1
+
